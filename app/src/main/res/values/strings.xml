@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facebook Feed</string>
+    <string name="user_name">Naomi</string>
+    <string name="posted">15hrs</string>
+    <string name="text">51 comments 15 shares 29k views</string>
+    <string name="facebook">Facebook</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.
+</string>
+
+</resources>
